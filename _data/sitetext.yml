@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to MYDO!
+    text: Karibu Sana
     button: Tell Me More
     buttonlink: "#services"
 
@@ -21,9 +21,9 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "YCI HerStart Training"
+        desc: "HerStart’s Innovate the Future program propels sustainable economic development, entrepreneurship and social impact for women in Zanzibar"
+        icon: <i class="fa-solid fa-power-off"></i>
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
@@ -71,7 +71,11 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "
+      Welcome to Mikunguni Youth Development Organization (MYDO)! 🌟
+      We're a vibrant and community-driven organization dedicated to making a positive impact. Established in 2002 and officially registered in 2003 under the Society Act NO.6 of 1995, laws of Zanzibar, MYDO proudly operates as a social, voluntary, nonpartisan, and independent entity.
+      Nestled in the heart of the beautiful Zanzibar Islands in Tanzania, East Africa, MYDO is passionate about fostering growth, development, and opportunities for the youth.
+      Our doors are open to all who share our vision of empowering the community and creating a brighter future. Join us on this incredible journey of making a difference, one step at a time! ✨"
     section: about
 
   clients:
